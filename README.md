@@ -9,21 +9,27 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
+Easy log for your network calls using alamofire, and common utils required.
+
+Use ```.validateErrors()``` 
+
 ## Requirements
+
+Above Swift 3.2
 
 ## Installation
 
-43Utils is available through [CocoaPods](https://cocoapods.org). To install
+U4N is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod '43Utils'
+pod 'U4N'
 ```
 
 ## Author
 
-samad5353, asamad5353@gmail.com
+Abdul Samad
 
 ## License
 
-43Utils is available under the MIT license. See the LICENSE file for more info.
+U4N is available under the MIT license. See the LICENSE file for more info.
