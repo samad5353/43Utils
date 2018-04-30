@@ -1,0 +1,6 @@
+use_frameworks!
+target '43Utils_Tests' do
+  pod '43Utils', :path => '../'
+  
+  
+end
