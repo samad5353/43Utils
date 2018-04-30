@@ -13,17 +13,17 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Installation
 
-43Utils is available through [CocoaPods](https://cocoapods.org). To install
+U4N is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod '43Utils'
+pod 'U4N'
 ```
 
 ## Author
 
-samad5353, asamad5353@gmail.com
+samad
 
 ## License
 
-43Utils is available under the MIT license. See the LICENSE file for more info.
+U4N is available under the MIT license. See the LICENSE file for more info.
