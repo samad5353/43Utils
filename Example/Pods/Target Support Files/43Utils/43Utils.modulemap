@@ -1,0 +1,6 @@
+framework module _43Utils {
+  umbrella header "43Utils-umbrella.h"
+
+  export *
+  module * { export * }
+}
