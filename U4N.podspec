@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = '43Utils'
+  s.name             = 'U4N'
   s.version          = '0.1.0'
   s.summary          = 'Utility Files useful for various projects'
 

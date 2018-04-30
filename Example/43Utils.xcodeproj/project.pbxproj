@@ -20,7 +20,7 @@
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		9CD40CF168D6DC75795C1B16 /* Pods-43Utils_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-43Utils_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-43Utils_Tests/Pods-43Utils_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		C31B03EE741818F752FA5844 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		FD2341E5B08E8575A220F639 /* 43Utils.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = 43Utils.podspec; path = ../43Utils.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		FD2341E5B08E8575A220F639 /* U4N.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = U4N.podspec; path = ../U4N.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,7 +74,7 @@
 		607FACF51AFB993E008FA782 /* Podspec Metadata */ = {
 			isa = PBXGroup;
 			children = (
-				FD2341E5B08E8575A220F639 /* 43Utils.podspec */,
+				FD2341E5B08E8575A220F639 /* U4N.podspec */,
 				2389DE34C3B0594A276496E7 /* README.md */,
 				C31B03EE741818F752FA5844 /* LICENSE */,
 			);
